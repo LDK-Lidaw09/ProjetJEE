@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/web/Fournisseur/formFour.jsp</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/web/Admin/Pannel.jsp</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/web/Client/login.jsp</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/LivraisonS.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/web/Admin/form.jsp</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/web/Client/form.jsp</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/AjoutPanier.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/ListeCommande.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/livraison/livraisondao.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/DeleteProduct.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/ViewFour.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/web/Fournisseur/Pannel/FourPannel.jsp</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/DeleteFour.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/clientdao/ClientDao.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/web/Fournisseur/formproduit.jsp</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/DeleteServlet.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/ViewClient.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/Servlet/ListeClient.java</file>
+            <file>file:/D:/OneDrive/Bureau/NetBeans/_ProjetExamen2021/src/java/commandeDao/CmdDao.java</file>
+        </group>
+    </open-files>
+</project-private>
